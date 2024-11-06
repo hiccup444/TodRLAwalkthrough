@@ -30,4 +30,21 @@ Important things to do in this scene:
 As Rodinka continues to the right, there is a Cedar Cone (+1 LUCK) hidden in a patch of leaves.
 - Patches of leaves usually indicate hidden items.
 
-- ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/ch1-forest2.png?raw=true)
+![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/ch1-forest2.png?raw=true)
+
+As Rodinka continues to the right, she will discover a small forest cabin. There is a coin hidden in the patch of leaves.
+
+![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/image_2024-11-06_012110904.png?raw=true)
+
+## The Witches House
+Rodinka enters the Witches house. You can nearly interact with everything here.
+
+Important things to do in this scene:
+
+- Pick up the dildo in the box.
+  - Interact with the box multiple times to take it.
+- Pick up the spell book to start the "Little Squirrel Witch" quest.
+- Pick up the book "Honey-bun from Zalseje, p.3" (this will help with money later)
+  - Pick this up after grabbing the spellbook.
+
+![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/image_2024-11-06_013146958.png?raw=true)
