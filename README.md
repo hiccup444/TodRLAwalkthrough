@@ -11,5 +11,6 @@ Important things to do in this scene:
 
 Important notes for this scene:
 - Reading the sign 46 times activates Crazy Mode. This changes Rodinka's short speeches into fourth wall breaks. This does not change the main content of the game very much.
+- Lingering in this scene for too long will prompt Rodinka to wet herself, and end the game.
 
 ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/ch1-road.png?raw=true)
