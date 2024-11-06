@@ -20,7 +20,7 @@ Important notes for this scene:
 ## The Forest
 You have fallen down the cliff, and must get back to your caravan.
 
-Important things to do in this scene:
+Important things to do in this scene: 
 
 - Rodinka can wash herself in the nearby pond for a short H-Scene.
   - Avoid doing this if you want to see Nightmare 2 in Episode 2
