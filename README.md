@@ -8,6 +8,8 @@ Important things to do in this scene:
 
 - Talk to Mari (facing the log), this will give you an item later in the episode.
 - Talk to Lawrence (adds +1 relationship)
+- To continue this scene, you must head south and encounter the H-Scene (peeing in bush)
+    - The H-Scene can be skipped if you desire.
 
 Important notes for this scene:
 - Reading the sign 46 times activates Crazy Mode. This changes Rodinka's short speeches into fourth wall breaks. This does not change the main content of the game very much.
