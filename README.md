@@ -59,9 +59,32 @@ Rodinka has made it back to the road, but the caravan is no where in sight. Cont
 
 Important things to do on the road:
 
-- Interact with the campfire to receive a Cat Pendent
+- Interact with the campfire to receive a Cat Pendant
 - Click the three bushes in order for explorer experience
+- You can walk through the trees near the "3" bush to get Inzhir's Dice and get more explorer experience.
 
 Once done, continue further right to enter next scene.
 
 ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/7.ch1-campfire-road.png?raw=true)
+
+Rodinka will run into Farthew, the old man. You may now choose to ride with him, or continue walking down the road.
+
+Important notes for this scene:
+
+- Riding with Farthew will prompt H-Scenes
+  - You need to pick this option if you want Nightmare 2 in Episode 2.
+- If you continue walking, Rodinka will run into a group of boys traveling in the same direction.
+  - You can find two more items on the road, and will have to "suck the poison out" for one of the boys. Further instructions below.
+
+## The Boys (The Road)
+
+Important things to do for this scene:
+
+- Interact with the log for a Golden Royal Bug.
+  - You can only collect this if you talked to Mari in the Caravan.
+- Interact with the pile of leaves to collect Mushrooms.
+
+![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/8.ch1-walktheroad.png?raw=true)
+
+
+
