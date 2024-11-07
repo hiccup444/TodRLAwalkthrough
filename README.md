@@ -1,6 +1,6 @@
 ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/w_3eRY.png?raw=true)
 
-This is an english walkthrough for Tales Of Divinity: Rodinka's Lewd Adventures. There will be spoilers below, so tread lightly if you would like to experience the game without those.
+This is an english walkthrough for Tales Of Divinity: Rodinka's Lewd Adventures. There will be spoilers below, so tread lightly if you would like to experience the game without those. This game is **18+** and for **ADULTS ONLY**. This walkthrough will show no graphic material, however the gameplay itself does.
 
 Download the game on [Itch.io](https://eromur-abel.itch.io/tales-of-divinity-rodinkas-lewd-adventures), or [Newgrounds](https://eromurabel.newgrounds.com).
 
