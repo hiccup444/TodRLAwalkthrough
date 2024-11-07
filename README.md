@@ -1,7 +1,9 @@
 # Episodes
-Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5
+<details>
+  <summary>Episode 1</summary>
 
-# Episode 1
+
+    
 ## The Caravan
 You start as Rodinka and her traveling caravan, stopped in the road for a short rest. Rodinka expresses her desire to pee before they go.
 Important things to do in this scene:
@@ -85,6 +87,9 @@ Important things to do for this scene:
 - Interact with the pile of leaves to collect Mushrooms.
 
 ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/8.ch1-walktheroad.png?raw=true)
-
-
+</details>
+<details>
+  <summary>Episode 2</summary>
+  Test
+</details>
 
