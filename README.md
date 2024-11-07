@@ -48,3 +48,20 @@ Important things to do in this scene:
   - Pick this up after grabbing the spellbook.
 
 ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/image_2024-11-06_013146958.png?raw=true)
+
+Continue out the back door of the Witches house, and go through the branches. This will (unfortunately) tear up your dress.
+
+![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/6.ch1-witch2.png?raw=true)
+
+## The Road
+
+Rodinka has made it back to the road, but the caravan is no where in sight. Continue right until you find the campfire.
+
+Important things to do on the road:
+
+- Interact with the campfire to receive a Cat Pendent
+- Click the three bushes in order for explorer experience
+
+Once done, continue further right to enter next scene.
+
+![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/7.ch1-campfire-road.png?raw=true)
