@@ -2,6 +2,8 @@
 
 This is an english walkthrough for Tales Of Divinity: Rodinka's Lewd Adventures. There will be spoilers below, so tread lightly if you would like to experience the game without those. This game is **18+** and for **ADULTS ONLY**. This walkthrough will show no graphic material, and is not intended to be sexually explicit. It is purely for documentation.
 
+The walkthrough will work on a linear, episodic basis. Use your browser search function if you are looking for something specific.
+
 Download the game on [Itch.io](https://eromur-abel.itch.io/tales-of-divinity-rodinkas-lewd-adventures), or [Newgrounds](https://eromurabel.newgrounds.com).
 
 # Episodes
