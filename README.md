@@ -83,7 +83,7 @@ Important notes for this scene:
 Important things to do for this scene:
 
 - Interact with the log for a **Golden Royal Bug**.
-  - You can only collect this if you talked to [Mari](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/README.md?plain=1#L11) in the Caravan.
+  - You can only collect this if you talked to Mari in the Caravan.
 - Interact with the pile of leaves to collect **Mushrooms**.
 
 ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/8.ch1-walktheroad.png?raw=true)
