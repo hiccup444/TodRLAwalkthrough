@@ -14,7 +14,7 @@ Important things to do in this scene:
     - The H-Scene can be skipped if you desire. You will fall down the cliff to enter the next scene.
 
 Important notes for this scene:
-- Reading the sign 46 times activates Crazy Mode. This changes Rodinka's short speeches into fourth wall breaks. This does not change the main content of the game very much.
+- Reading the sign 46 times activates **Crazy Mode**. This changes Rodinka's short speeches into fourth wall breaks. This does not change the main content of the game very much.
 - Lingering in this scene for too long will prompt Rodinka to wet herself, and end the game.
 
 ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/ch1-road.png?raw=true)
@@ -29,12 +29,12 @@ Important things to do in this scene:
 
 ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/ch1-forest.png?raw=true)
 
-As Rodinka continues to the right, there is a Cedar Cone (+1 LUCK) hidden in a patch of leaves.
+As Rodinka continues to the right, there is a **Cedar Cone** (+1 LUCK) hidden in a patch of leaves.
 - Patches of leaves usually indicate hidden items.
 
 ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/ch1-forest2.png?raw=true)
 
-As Rodinka continues to the right, she will discover a small forest cabin. There is a coin hidden in the patch of leaves.
+As Rodinka continues to the right, she will discover a small forest cabin. There is a **coin** hidden in the patch of leaves.
 
 ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/image_2024-11-06_012110904.png?raw=true)
 
@@ -43,10 +43,10 @@ Rodinka enters the Witches house. You can nearly interact with everything here.
 
 Important things to do in this scene:
 
-- Pick up the dildo in the box.
+- Pick up the **dildo** in the box.
   - Interact with the box multiple times to take it.
-- Pick up the spell book to start the "Little Squirrel Witch" quest.
-- Pick up the book "Honey-bun from Zalseje, p.3" (this will help with money later)
+- Pick up the **spell book** to start the "Little Squirrel Witch" quest.
+- Pick up the **book** "Honey-bun from Zalseje, p.3" (this will help with money later)
   - Pick this up after grabbing the spellbook.
 
 ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/image_2024-11-06_013146958.png?raw=true)
@@ -61,9 +61,9 @@ Rodinka has made it back to the road, but the caravan is no where in sight. Cont
 
 Important things to do on the road:
 
-- Interact with the campfire to receive a Cat Pendant
+- Interact with the campfire to receive a **Cat Pendant**
 - Click the three bushes in order for explorer experience
-- You can walk through the trees near the "3" bush to get Inzhir's Dice and get more explorer experience.
+- You can walk through the trees near the "3" bush to get **Inzhir's Dice** and get more explorer experience.
 
 Once done, continue further right to enter next scene.
 
@@ -82,9 +82,9 @@ Important notes for this scene:
 
 Important things to do for this scene:
 
-- Interact with the log for a Golden Royal Bug.
-  - You can only collect this if you talked to Mari in the Caravan.
-- Interact with the pile of leaves to collect Mushrooms.
+- Interact with the log for a **Golden Royal Bug**.
+  - You can only collect this if you talked to [Mari](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/README.md?plain=1#L11) in the Caravan.
+- Interact with the pile of leaves to collect **Mushrooms**.
 
 ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/8.ch1-walktheroad.png?raw=true)
 </details>
