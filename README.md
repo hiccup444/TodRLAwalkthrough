@@ -1,3 +1,5 @@
+This is an english walkthrough for Tales Of Divinity: Rodinka's Lewd Adventures. There will be spoilers below, so tread lightly if you would like to experience the game without those.
+
 # Episodes
 <details>
   <summary>Episode 1</summary>
