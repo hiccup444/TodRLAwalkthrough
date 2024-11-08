@@ -98,6 +98,32 @@ Important things to do for this scene:
 </details>
 <details>
   <summary>Episode 2</summary>
-  Test
+
+
+
+  ## The Dress
+
+  text
+
+  ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/9.ch2-intro.png?raw=true)
+
+  ## The Marketplace
+
+  text
+
+  ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/10.ch2-walkofshame.png?raw=true)
+
+  text
+
+  ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/11.ch2-walkofshame2.png?raw=true)
+
+  text
+
+  ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/12.ch2.walkofshame3.png?raw=true)
+
+  text
+
+  ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/13.ch2.walkofshame4.png?raw=true)
+  
 </details>
 
