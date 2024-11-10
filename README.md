@@ -189,4 +189,9 @@ There are two different nightmare scenes:
 Note: Nightmare 2 is not significant for the main story but provides a different scene.
   
 </details>
+<details>
+  <summary>Episode 3</summary>
 
+
+
+  </details>
