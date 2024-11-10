@@ -103,26 +103,43 @@ Important things to do for this scene:
 
   ## The Dress
 
-  text
+Ragged Dress (H-Scene):
+
+- Choosing this option fulfills the last requirement for Nightmare 2
+- Interact with villagers from various angles for extra dialogue and small scenes.
+
+White Dress:
+
+- Steal the dress by either jumping over the broken fence or walking through the yard for a slight scene variation.
+- Engage in conversations with villagers from different directions for unique dialogue and scenes.
+
+General task for both choices:
+
+- Pick up the **Walnut** from the leaves for +1 ENDURANCE (this is mistakenly marked as a coin in the image)
 
   ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/9.ch2-intro.png?raw=true)
 
   ## The Marketplace
 
-  text
+Shared tasks:
+
+- Collect coins from barrels scattered throughout the marketplace.
+- Find a coin in the pile of leaves next to the healer’s house at the beginning of the scene.
+- Pick up the note available in both dress choices.
+
+Ragged Dress:
+
+- After crossing the bridge, talk to the boy behind the horse carriage to receive a Camomile.
+- Interact with the angry trader and then speak to the blonde woman to give her the Camomile, pretending it came from the trader.
+  
+White Dress:
+
+- Speak to the blonde woman observing the trader and leave the collected note for the trader, pretending it was from the woman.
+- Near the last set of trader stands, meet a thirsty boy. You can choose to give him a drink or decline. If you decline, he bites Rodinka’s ass, leaving a bite mark that appears in future scenes.
 
   ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/10.ch2-walkofshame.png?raw=true)
-
-  text
-
   ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/11.ch2-walkofshame2.png?raw=true)
-
-  text
-
   ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/12.ch2.walkofshame3.png?raw=true)
-
-  text
-
   ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/13.ch2.walkofshame4.png?raw=true)
   
 </details>
