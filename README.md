@@ -141,6 +141,52 @@ White Dress:
   ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/11.ch2-walkofshame2.png?raw=true)
   ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/12.ch2.walkofshame3.png?raw=true)
   ![alt text](https://github.com/hiccup444/TodRLAwalkthrough/blob/main/images/13.ch2.walkofshame4.png?raw=true)
+
+  ## After Crossing the Bridge: The Troupe Scene
+
+Important tasks:
+
+- After reaching the troupe and leveling up, save your points. These stats will affect future event outcomes. Note that certain clothes provide different bonus stats when worn.
+- Use the water bucket near the top-right tent to continue the story.
+- Eat from the pot on the campfire to restore some health (though health is not required for gameplay yet).
+- View the poster on the barrel near the big tent for more information about the troupe.
+- Explore the tents; Rodinka’s tent is marked with a flower. The other tents provide background information about the troupe members.
+  
+Entering Rodinka’s tent:
+
+- Change into the costume and proceed to the stage:
+- Approach from the bottom direction for a conversation with Ninika.
+- Approach from the top direction for a conversation with Lawrence.
+  
+Note: If you want to pursue a relationship with Lawrence and see his H-scene in Episode 5, choose **SORRY - DON'T LIKE - ROMANTIC** during the conversation. This choice grants +2 relationship points.
+
+## The Play
+
+Complete the play as you wish until the final choice. Your choices affect how much money Vivian will give you the next day, based on the audience’s reaction (visible through the number of note clouds above their heads after each act). The minimum reward is 37-38p if you choose to skip.
+
+H-SCENE CHOICE during the play:
+
+When Rodinka’s top falls off, choose from the following:
+- Attempt to put on the breastplate: Rodinka gets groped.
+- Escape: Rodinka’s pants fall down.
+- Continue: Rodinka finishes the play topless.
+
+## After the Play: Rodinka’s Tent
+
+Important tasks:
+
+- You can choose whether or not to put on the Nightie.
+  
+H-SCENE: Nightmare scenes
+
+There are two different nightmare scenes:
+- To unlock Nightmare 2, you must:
+  - Avoid washing at the pond.
+  - Scare the bear.
+  - Ride with Farthew.
+  - Walk through the village in the ragged dress.
+    
+Note: Nightmare 2 is not significant for the main story but provides a different scene.
   
 </details>
 
